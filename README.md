@@ -1,2 +1,4 @@
 # spotify-application
-spapp
+
+- embedded esp32 spotify/aidj WLED visualizer
+- better playlist enhancement
